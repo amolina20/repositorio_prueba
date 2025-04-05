@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    background-color:antiquewhite;
+    flex-direction:column;
+    text-align: center;
+  }
+  
+.imagen {
+    width: 500px; 
+    height: auto; 
+    margin-top:10px;
+}
+  
+.boton-github {
+    padding: 10px;
+    color: black; 
+    background-color:aqua;
+    border: none;  
+    cursor: pointer;  
+  }
